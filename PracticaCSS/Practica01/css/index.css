@@ -1,0 +1,74 @@
+/* Bloque 16
+#inicio{
+    border-left: 6px solid #3c96ac;
+}
+#objetivo{
+    border-left: 6px solid #3c96ac;
+}
+#intereses{
+    border-left: 6px solid #3c96ac;
+}
+#multimedia{
+    border-left: 6px solid #3c96ac;
+}
+#buscar{
+    border-left: 6px solid #3c96ac;
+}
+#contacto{
+    border-left: 6px solid #3c96ac;
+}
+    */
+
+.class_btn_nav {
+    border-left: 6px solid #3c96ac;
+}
+.class_btn_nav1 {
+    border-left: 6px solid chocolate;
+}
+.class_btn_nav2 {
+    border-left: 6px solid rgb(30, 210, 90);
+}
+
+/* Agrupado: li y ol ahora comparten el mismo código sin repetirse */
+#intereses li
+ {
+    background-color: rgb(202, 220, 214);
+    margin-left: auto;
+    padding: 3px 6px;
+    border-radius: 4px;
+}
+#pasos li{
+    background-color: rgb(202, 220, 214);
+    margin-left: auto;
+    padding: 3px 6px;
+    border-radius: 4px;
+}
+
+#multimedia article {
+    border: 1px solid #bacfd4;
+    background-color: #ffffff;
+}
+
+#multimedia h3 {
+    color: rgb(26, 135, 9);
+}
+section form{
+    background-color: rgba(149, 210, 189, 0.441);
+    margin-left: auto;
+    padding: 16px;      
+    border-radius: 1px dashed #a8a8a8;
+}
+main figure{
+    background-color: rgba(149, 210, 189, 0.441);
+    margin-left: auto;
+    padding: 16px;
+    border-radius: 1px dashed #a8a8a8;
+}
+/*bloque 6 Nota importante
+*/
+.nota{
+    background-color: rgba(73, 173, 138, 0.441);
+    padding: 16px;
+    font-size: 14px;
+    border-left: 5px dashed #a8a8a8;
+}
